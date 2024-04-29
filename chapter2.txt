@@ -1,0 +1,5 @@
+Second chapter of learning how to code.
+Basic git commands: 
+git status, git add- to add to the stading area, 
+git commit -m "What I do in presence tence", 
+git log - to see what was commited
