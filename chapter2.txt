@@ -3,3 +3,7 @@ Basic git commands:
 git status, git add- to add to the stading area, 
 git commit -m "What I do in presence tence", 
 git log - to see what was commited
+
+git fork
+git branch
+remote and local depositories
